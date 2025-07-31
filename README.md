@@ -1,9 +1,5 @@
 ![about me](aboutme_v2.png)
 
-## Github stats
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=dmachard&show_icons=true&hide_border=true&theme=transparent&hide_title=true)
-
 ## Contributed to
 ![about me](contributions.jpg)
 
