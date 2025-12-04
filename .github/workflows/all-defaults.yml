@@ -21,5 +21,9 @@ jobs:
 
     - name: Generate the user stats image
       uses: cicirello/user-statistician@v1
+      with:
+        max-languages: 30
+        top-icon: none
+        include-title: false
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
