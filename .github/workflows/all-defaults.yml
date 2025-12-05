@@ -25,5 +25,7 @@ jobs:
         max-languages: 15
         top-icon: none
         include-title: false
+        show-border: false
+        hide-keys: mostForked, followers, following, archived, reviews
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
